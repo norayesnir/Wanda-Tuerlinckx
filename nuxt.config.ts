@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     // "@nuxt/image",
     "nuxt-icon",
     "@nuxtjs/color-mode",
-    "@dargmuesli/nuxt-cookie-control",
+    // "@dargmuesli/nuxt-cookie-control",
     "@nuxtjs/i18n"
   ],
 })
