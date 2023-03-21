@@ -1,7 +1,10 @@
 <template>
+  <Aframe />
   <main>
     <ContentDoc />
   </main>
-
-  <VIframe />
 </template>
+
+<style scoped>
+  
+</style>

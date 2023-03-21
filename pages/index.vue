@@ -1,9 +1,6 @@
 <template>
   <div>
-    <main>
-      <ContentDoc />
-    </main>
-    <VIframe />
+    <Aframe />
   </div>
 </template>
 

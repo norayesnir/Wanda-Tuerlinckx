@@ -1,6 +1,6 @@
 <template>
   <div>
-    <ContentNavigation />
+    <!-- <ContentNavigation /> -->
     <!-- <CookieControl locale="en" /> -->
     <NuxtPage />
   </div>
