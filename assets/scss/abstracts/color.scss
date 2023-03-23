@@ -1,3 +1,9 @@
-:root{
-  color: #d47bfa
+.dark-mode{
+  --foreground: #ffffff;
+  --background: #000000;
+}
+
+.light-mode{
+  --foreground: #000000;
+  --background: #ffffff;
 }

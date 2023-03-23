@@ -3,6 +3,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  overflow-y: hidden;
 }
 
 img{
@@ -19,4 +20,19 @@ body {
   overflow-x: hidden !important;
   background-color: var(--background);
   color: var(--foreground);
+}
+
+ol,ul{
+  margin: 0;
+  padding: 0;
+
+  li{
+    margin: 0;
+    padding: 0;
+
+    a{
+      color: var(--foreground);
+      text-decoration: none;
+    }
+  }
 }

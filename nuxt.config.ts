@@ -17,7 +17,8 @@ export default defineNuxtConfig({
     "nuxt-icon",
     "@nuxtjs/color-mode",
     // "@dargmuesli/nuxt-cookie-control",
-    "@nuxtjs/i18n"
+    "@nuxtjs/i18n",
+    'nuxt-icon'
   ],
 
   css: [
